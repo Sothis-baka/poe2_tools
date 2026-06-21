@@ -1,0 +1,37 @@
+# ==============================================================================
+# Python Runtime Exclusions
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+*.spec
+
+# ==============================================================================
+# Local Data Storage & State Persistence (Keep your individual transaction notes out of git)
+# ==============================================================================
+**/storage.json
+
+# ==============================================================================
+# DevOps Compilers & Asset Builder Output Frameworks (PyInstaller targets)
+# ==============================================================================
+build/
+dist/
+
+# ==============================================================================
+# OS & Integrated Development Environment (IDE) Hidden Logs
+# ==============================================================================
+.pathname
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+Thumbs.db
+.DS_Store
+
+
+# local tools
+filter sound adjuster/
