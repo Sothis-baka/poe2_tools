@@ -5,7 +5,7 @@ A collection of local, lightweight analytical tools and automation helpers built
 # 🛠️ Sub-Tool Directory
 # ExileLedger - PoE2 Automated Market Arbitrage Analyzer
 
-[![Latest Release](https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/poe2_tools?label=Download%20Executable&color=brightgreen)](https://github.com/Sothis-baka/poe2_tools/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Sothis-baka/poe2_tools?label=Download%20Executable&color=brightgreen)](https://github.com/Sothis-baka/poe2_tools/releases/latest)
 
 An offline graphical dashboard utilizing localized desktop persistence layers to evaluate arbitrage pathways.
 
